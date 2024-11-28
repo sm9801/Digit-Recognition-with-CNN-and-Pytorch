@@ -1,12 +1,12 @@
-# Digit Recognition Using PyTorch and Convolutional Neural Networks (CNN)
+# Digit Recognition Using Convolutional Neural Networks (CNN) and PyTorch
 
-## Overview
+## 📜 **Overview**
 
-This project implements a digit recognition system built from scratch using PyTorch and Convolutional Neural Networks (CNN). It explores custom implementations of key deep learning functionalities, such as training, prediction, and activation functions. The model achieves a validation accuracy of **94%**, highlighting its effectiveness in recognizing handwritten digits.
+This project implements a digit recognition system using PyTorch, Convolutional Neural Networks (CNNs), and Computer Vision techniques. The project is built entirely from scratch, including custom implementations of training, prediction, activation functions, and their derivatives. The best-performing model achieved a validation accuracy of **94%** and excelled on the test dataset.
 
 ---
 
-## Features
+## 🚀 **Features**
 
 - **Custom Train and Predict Functions**: Implemented custom training and prediction pipelines for greater flexibility.
 - **ReLU Activation**: Developed a ReLU activation function along with its derivative for backpropagation.
@@ -16,7 +16,7 @@ This project implements a digit recognition system built from scratch using PyTo
 
 ---
 
-## Model Performance
+## 📊 Model Performance 
 
 The best-performing CNN model achieved:
 - **Validation Accuracy**: 94%
@@ -31,7 +31,7 @@ The best-performing CNN model achieved:
 
 ---
 
-## Technology Stack
+## 🛠️ Technology Stack
 
 - **Framework**: PyTorch
 - **Language**: Python
@@ -39,7 +39,7 @@ The best-performing CNN model achieved:
 
 ---
 
-## Future Enhancements
+## 📈 Future Enhancements
 
 - Experiment with additional activation functions (e.g., sigmoid, tanh).
 - Implement dropout for better regularization.
@@ -47,7 +47,7 @@ The best-performing CNN model achieved:
 
 ---
 
-## Acknowledgments
+## 🤝 Acknowledgments
 
 Special thanks to PyTorch's documentation and the digit recognition datasets provided by MITx that inspired this project.
 
