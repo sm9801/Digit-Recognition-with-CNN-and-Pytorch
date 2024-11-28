@@ -1,18 +1,6 @@
 import numpy as np
 import math
 
-"""
- ==================================
- Problem 3: Neural Network Basics
- ==================================
-    Generates a neural network with the following architecture:
-        Fully connected neural network.
-        Input vector takes in two features.
-        One hidden layer with three neurons whose activation function is ReLU.
-        One output neuron whose activation function is the identity function.
-"""
-
-
 def rectified_linear_unit(x):
     """ Returns the ReLU of x, or the maximum between 0 and x."""
     return np.maximum(0., x)
